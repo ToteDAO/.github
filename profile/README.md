@@ -34,22 +34,24 @@
 
 | Tech | Why is it used |
 |------|----------------|
-| Matic / Polygon | The easiest ledger of choice today |
-| Web3.Storage | Storing review data and related datasets |
-| Spheron Protocol | To access Polygon Network |
-| Covalent API | To query Polygon Network and apply NLP on review datasets |
-| EPNS | To alert users on status of actions |
-| Arcana Network | To share product insights with companies in a permissible manner|
-| Router Protocol | Cross-chain settlements of bounties |
-| React.js | Front-end web app for DAO activities |
-| Node.js | For some middleware activities |
-| Solidity | Not-so-smart contracts, duh! |
+| [Matic / Polygon](https://polygon.technology/) | The easiest ledger of choice today |
+| [10M3](https://iome.ai/) | Zk-proofed KYC-ed private BIP44 wallet, powered by [MOI](https://moi.technology/) |
+| [Web3.Storage](https://web3.storage/) | Storing review data and related datasets |
+| [Spheron Protocol](https://spheron.network/) | To access Polygon Network |
+| [Covalent API](https://www.covalenthq.com/) | To query Polygon Network and apply NLP on review datasets |
+| [EPNS](https://epns.io/) | To alert users on status of actions |
+| [Arcana Network](https://arcana.network/) | To share product insights with companies in a permissible manner|
+| [Router Protocol](https://www.routerprotocol.com/) | Cross-chain settlements of bounties |
+| [React.js](https://reactjs.org/) | Front-end web app for DAO activities |
+| [Node.js](https://nodejs.org/en/) | For some middleware activities |
+| [Solidity](https://docs.soliditylang.org/en/v0.8.16/) | Not-so-smart contracts, duh! |
 
 ## Team
 
-We are a team of 3: 
-[Ganesh Prasad Kumble](https://github.com/0zAND1z) (Ideation and full-stack),
+We are a team of 3:
 
-[Pradeep Pradyumna](https://github.com/pradeepradyumna) (Front-end and presentation), and
+👨‍🔧 [Ganesh Prasad Kumble](https://github.com/0zAND1z) (Ideation and full-stack),
 
-[Madhusudhan Kumble](https://github.com/madhukumble) (Data Science and story-boarding)
+👨‍🎨 [Pradeep Pradyumna](https://github.com/pradeepradyumna) (Front-end and presentation), and
+
+🧑‍🔬 [Madhusudhan Kumble](https://github.com/madhukumble) (Data Science and story-boarding)
