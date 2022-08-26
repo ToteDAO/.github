@@ -1,4 +1,4 @@
-![Tote DAO Logo](../images/tote-logo.jpg)
+![Tote DAO Logo](/images/tote-logo.jpg)
 
 # Tote DAO
 
